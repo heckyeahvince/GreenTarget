@@ -1,24 +1,11 @@
 # Greet Target ( Custom View Demo) 
 
-greentarget-melvincabatuan created by Classroom for GitHub
-
 This assignment illustrates the creation of a custom view and basic drawing in Android.
 
 
 ## Problem:
 
 Design and implement a target (drawing) custom view.   
-
-
-## Accept
-
-To accept the assignment, click the following URL:
-
-https://classroom.github.com/assignment-invitations/f319e417be0f2ad9c7337b2cb29b2779
-
-## Sample Solution:
-
-https://github.com/DeLaSalleUniversity-Manila/greentarget-melvincabatuan
 
 ## Keypoints:
 
@@ -62,23 +49,3 @@ In the layout xml:
         android:layout_centerInParent="true"
         />
 ```
-
-
-## Submission Procedure with Git: 
-
-```shell
-$ cd /path/to/your/android/app/
-$ git init
-$ git add –all
-$ git commit -m "your message, e.x. Assignment 1 submission"
-$ git remote add origin <Assignment link copied from assignment github, e.x. https://github.com/DeLaSalleUniversity-Manila/secondactivityassignment-melvincabatuan.git>
-$ git push -u origin master
-<then Enter Username and Password>
-```
-
-
-## Screenshot:
-
-![alt tag](https://github.com/DeLaSalleUniversity-Manila/greentarget-melvincabatuan/blob/master/device-2015-10-08-223957.png)
-
-"*There is only one way to avoid criticism: do nothing, say nothing, and be nothing.*" - Aristotle
